@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/nPGNY7j/1.jpg",
+        "title": "The Adventure Begins",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/nPGNY7j/1.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 15,
+        "hashtags": [
+            "adventure",
+            "story",
+            "fiction"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/3p7Q22K/2.png",
+        "title": "Cooking Masterclass",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/3p7Q22K/2.png",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 10,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/mSjVBPg/3.png",
+        "title": "Tech Trends 2023",
+        "author": "David Brown",
+        "author_img": "https://i.ibb.co/mSjVBPg/3.png",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 8,
+        "hashtags": [
+            "technology",
+            "trends",
+            "innovation"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/8xJS2zK/4.jpg",
+        "title": "Traveling the World",
+        "author": "Maria Garcia",
+        "author_img": "https://i.ibb.co/8xJS2zK/4.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 20,
+        "hashtags": [
+            "travel",
+            "adventure",
+            "explore"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/8xJS2zK/4.jpg",
+        "title": "Fitness for Beginners",
+        "author": "Michael Johnson",
+        "author_img": "https://i.ibb.co/8xJS2zK/4.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 12,
+        "hashtags": [
+            "fitness",
+            "exercise",
+            "health"
+        ]
+    }
+]
